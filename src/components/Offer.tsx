@@ -18,7 +18,7 @@ const Offer = () => {
         fukdhfddugffuhfukdhfddugffuhfukdhfdfhdddugff
         uhfukdhfddugffuhfukdhfddugffuhfukdhfddugffuhfu
         kdhfdfhdddugffuhfukdhfddugffuhfukdhfddugffuh
-        fukdhfddugffuhfukdhfdfh
+        fukdhfddugffuhfukdhfdfhhhhhhh
       </p>
 
             <CountDown />
