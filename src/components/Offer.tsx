@@ -8,18 +8,18 @@ const Offer = () => {
       <div className='relative w-full bg-black h-[800px] md:h-[500px] bg-[url("/offerBg.png")] '>
         <div className="absolute flex flex-col md:flex-row justify-evenly w-full h-full">
 
-          <div className="w-full flex flex-col justify-center text-white p-4 md:p-16 gap-5 md:w-1/2">
+          <div className="w-full  flex flex-col justify-center text-white p-4 md:p-16 gap-5 md:w-1/2">
             <h1 className="text-5xl text-yellow-300 font-bold">
               Delecious Burger and French Fries{" "}
             </h1>
-            <h1 className="w-full">
-              dddugffuhfukdhfddugffuhfukdhfddugffuhfukd
-              hfddugffuhfukdhfdfhdddugffuhfukdhfddugffuh
-              fukdhfddugffuhfukdhfddugffuhfukdhfdfhdddugff
-              uhfukdhfddugffuhfukdhfddugffuhfukdhfddugffuhfu
-              kdhfdfhdddugffuhfukdhfddugffuhfukdhfddugffuh
-              fukdhfddugffuhfukdhfdfh
-            </h1>
+            <p className="w-full overflow-x-scroll">
+        dddugffuhfukdhfddugffuhfukdhfddugffuhfukd
+        hfddugffuhfukdhfdfhdddugffuhfukdhfddugffuh
+        fukdhfddugffuhfukdhfddugffuhfukdhfdfhdddugff
+        uhfukdhfddugffuhfukdhfddugffuhfukdhfddugffuhfu
+        kdhfdfhdddugffuhfukdhfddugffuhfukdhfddugffuh
+        fukdhfddugffuhfukdhfdfh
+      </p>
 
             <CountDown />
 
