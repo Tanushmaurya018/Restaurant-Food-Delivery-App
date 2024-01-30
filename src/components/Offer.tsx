@@ -12,7 +12,7 @@ const Offer = () => {
             <h1 className="text-5xl text-yellow-300 font-bold">
               Delecious Burger and French Fries{" "}
             </h1>
-            <h1 className="">
+            <h1 className="w-full">
               dddugffuhfukdhfddugffuhfukdhfddugffuhfukd
               hfddugffuhfukdhfdfhdddugffuhfukdhfddugffuh
               fukdhfddugffuhfukdhfddugffuhfukdhfdfhdddugff

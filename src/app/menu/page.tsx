@@ -22,7 +22,7 @@ const Menu = () => {
       <h1 className={`${item.theme ? `${item.theme.textcolor}` : "text-white "} uppercase text-2xl lg:text-4xl font-extrabold`}>
         {item.name}
       </h1>
-      <p className={`${item.theme ? `${item.theme.textcolor}` : "text-white "} w-[190px] text-white text-md`}>
+      <p className={`${item.theme ? `${item.theme.textcolor}` : "text-white "} w-[190px]  text-md`}>
         {item.desc}
       </p>
       <div className="">
