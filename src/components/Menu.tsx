@@ -20,7 +20,7 @@ const Menu = () => {
     // console.log(open)
   }
   return (
-    <div>
+    <div className="">
       <Image
         src={!open ? "/open.png" : "/close.png"}
         height={20}
@@ -29,7 +29,7 @@ const Menu = () => {
         onClick={changeOpen}
       />
       {open && (
-        <div className="absolute left-0 top-32 bg-red-500 w-full h-[calc(100vh-8rem)]">
+        <div className="absolute left-0 top-32 bg-red-500 w-full h-[calc(100vh-8rem)] z-[999] overflow-hidden ">
           <div className="flex flex-col gap-10 text-center items-center justify-center h-full text-white text-3xl">
             {links.map((link) => {
               return (
