@@ -189,3 +189,81 @@ export const Pizzas:Products=[
     price: 400,
   },
 ]
+export const Pastas:Products=[
+
+
+  {
+    id: 1,
+    name: "Corn Pizza",
+    desc: "jbfdkjfbdkjbd",
+    img: "/temporary/p5.png",
+    price: 400,
+  },
+  {
+    id: 1,
+    name: "Corn Pizza",
+    desc: "jbfdkjfbdkjbd",
+    img: "/temporary/p5.png",
+    price: 400,
+  },
+
+  {
+    id: 1,
+    name: "Corn Pizza",
+    desc: "jbfdkjfbdkjbd",
+    img: "/temporary/p5.png",
+    price: 400,
+  },
+
+
+]
+export const Burgers:Products=[
+
+
+  {
+    id: 1,
+    name: "Burger 1",
+    desc: "jbfdkjfbdkjbd",
+    img: "/temporary/p11.png",
+    price: 400,
+  },
+  {
+    id: 1,
+    name: "Burger 1",
+    desc: "jbfdkjfbdkjbd",
+    img: "/temporary/p11.png",
+    price: 400,
+  },
+
+  {
+    id: 1,
+    name: "Burger 1",
+    desc: "jbfdkjfbdkjbd",
+    img: "/temporary/p11.png",
+    price: 400,
+  },
+
+  {
+    id: 1,
+    name: "Burger 1",
+    desc: "jbfdkjfbdkjbd",
+    img: "/temporary/p9.png",
+    price: 400,
+  },
+  {
+    id: 1,
+    name: "Burger 1",
+    desc: "jbfdkjfbdkjbd",
+    img: "/temporary/p10.png",
+    price: 400,
+  },
+
+  {
+    id: 1,
+    name: "Burger 1",
+    desc: "jbfdkjfbdkjbd",
+    img: "/temporary/p12.png",
+    price: 400,
+  },
+
+]

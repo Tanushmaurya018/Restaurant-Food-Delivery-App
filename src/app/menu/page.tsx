@@ -4,6 +4,8 @@ import { BiSolidRightArrow } from "react-icons/bi";
 import { Menus } from "@/data";
 import Link from "next/link";
 const Menu = () => {
+
+  
   return (
     <div className="container mx-auto flex flex-col md:flex-row gap-5 justify-center min-h-[70vh] items-center p-5 ">
       {Menus.map((item) => (
@@ -20,7 +22,7 @@ const Menu = () => {
               height={400}
               alt="e"
             />
-            <h1>{}</h1>
+            {/* <h1>{}</h1> */}
             <div className="absolute top-0 left-5 h-full flex flex-col  justify-evenly">
               <h1
                 className={`${
